@@ -1,2 +1,2 @@
-# Image_Stitching
+# Image-Stitching
  科技立项
