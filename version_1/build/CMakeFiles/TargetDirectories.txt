@@ -1,0 +1,3 @@
+/home/zhikaizhao/文档/Code/rubbish/build/CMakeFiles/edit_cache.dir
+/home/zhikaizhao/文档/Code/rubbish/build/CMakeFiles/rebuild_cache.dir
+/home/zhikaizhao/文档/Code/rubbish/build/CMakeFiles/orb_cv.cpp.dir
