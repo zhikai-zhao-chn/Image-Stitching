@@ -1,0 +1,11 @@
+# filename    focal_length
+2_DCP.jpg 659
+3_DCP.jpg 659
+4_DCP.jpg 659
+5_DCP.jpg 659
+6_DCP.jpg 659
+7_DCP.jpg 659
+8_DCP.jpg 659
+9_DCP.jpg 659
+10_DCP.jpg 659
+11_DCP.jpg 659
